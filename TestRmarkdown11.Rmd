@@ -54,5 +54,6 @@ head(dm)
 install.packages("tidyverse")
 library(tidyverse)
 print(dm)
+head(dm)
 ```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
